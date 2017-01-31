@@ -12,7 +12,7 @@ using namespace std;
 
 void Controller :: start()
 {
-
+ cout << "print to screen" << endl;
 }
 
 
